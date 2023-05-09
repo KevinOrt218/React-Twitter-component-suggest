@@ -14,4 +14,5 @@ body{
     background: #16181C;
     border-radius: 1rem;
     padding: 18px;
+    min-width: 350px;
 }
