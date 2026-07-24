@@ -19,7 +19,7 @@ export function App() {
                     />
                 )
                 })}
-                <a href='twitter.com/home' target='_blank' className='tw-titleShowmore'>Mostar más</a>
+                <a href='https://x.com/?lang=es' target='_blank' className='tw-titleShowmore'>Mostar más</a>
         </section>
         </>
     )
