@@ -1,7 +1,7 @@
 import { useState } from "react"
 
 export function TwitterFollowCard({ name, userName, initialisFollowing}) { 
-    const imageSrc = `https://unavatar.io/${userName}`
+    const imageSrc = `https://unavatar.io/x/${userName}`
 
     const [isFollowing, setisFollowing] = useState(initialisFollowing)
 
